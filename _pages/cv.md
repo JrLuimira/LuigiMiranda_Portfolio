@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mechatronic Engineer, Escuela Superior Politécnica del Litoral, 2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Intership at University of Cardiff
+  * Path Planning Robot: Appying algorithms for robot path planning using the OMPL.
+  * Digital Twin of Walter Robot: Creating a virtual twin for simulation pourpose at testing and training for the robot Walter, robot developed @ ESPOL
+  * Supervisor: Steven Silva, Ph.D
 
 * Fall 2015: Research Assistant
   * GitHub University
